@@ -9,11 +9,11 @@ export default (sequelize, DataTypes) => {
         },
         min: {
           args: 1,
-          msg: 'Mood needs to be greater or equal than 1',
+          msg: 'Mood needs to be greater than or equal to 1',
         },
         max: {
           args: 7,
-          msg: 'Mood needs to be less or equal than 7',
+          msg: 'Mood needs to be less than or equal to 7',
         },
       },
     },
