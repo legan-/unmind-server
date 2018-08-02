@@ -1,0 +1,12 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "unmind-02082018",
+    "host": "localhost",
+    "dialect": "postgres",
+    "define": {
+      "underscored": true
+    }
+  }
+}
