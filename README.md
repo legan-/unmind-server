@@ -20,7 +20,7 @@ To prepare this app for running you have to:
 3. `git clone git@github.com:legan-/unmind-server.git`
 4. `createdb unmind-02082018`
 5. `cd unmind-server`
-6. `yarn i`
+6. `yarn install`
 
 ### Running app
 
